@@ -1,0 +1,16 @@
+2026-02-11 12:23:06,389 - my_logger  - DEBUG - This is a debug message
+2026-02-11 12:23:06,390 - my_logger  - INFO - This is an info message
+2026-02-11 12:23:38,604 - my_logger  - DEBUG - This is a debug message
+2026-02-11 12:23:38,604 - my_logger  - INFO - This is an info message
+2026-02-11 12:23:38,605 - my_logger  - WARNING - This is an warning message
+2026-02-11 14:24:31,868 - my_logger - INFO - This is an info message
+2026-02-11 14:24:31,868 - my_logger - WARNING - This is a warning message
+2026-02-11 14:34:39,334 - my_logger  - DEBUG - hello world 
+2026-02-11 14:34:39,334 - my_logger  - DEBUG - Hello info
+2026-02-11 14:34:39,334 - my_logger  - DEBUG - Hello Warning
+2026-02-11 14:35:02,987 - my_logger  - DEBUG - hello world 
+2026-02-11 14:35:02,987 - my_logger  - DEBUG - Hello info
+2026-02-11 14:35:02,988 - my_logger  - DEBUG - Hello Warning
+2026-02-11 14:36:03,346 - my_logger - DEBUG - hello world
+2026-02-11 14:36:03,346 - my_logger - INFO - hello info
+2026-02-11 14:36:03,347 - my_logger - WARNING - hello warning

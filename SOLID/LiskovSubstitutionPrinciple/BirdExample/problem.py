@@ -17,12 +17,8 @@ class Chicken(Bird):
         raise NotImplementedError("hah Chickens do not fly :) ")
 
 
-
-
-
 def main(bird: Bird):
     bird.fly()
-
 
 if __name__ == "__main__":
     main(bird=Chicken())
